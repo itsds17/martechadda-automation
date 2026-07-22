@@ -1,0 +1,487 @@
+{
+    "serviceHeadToPrimaryFilters": {
+        "Branding Services": [
+            "Brand Strategy & Foundations",
+            "Brand Audit & Research",
+            "Go-to-Market & Launch Strategy",
+            "Visual Identity Design",
+            "Verbal Identity & Messaging",
+            "Brand Experience & Touchpoints",
+            "Employer Branding",
+            "Personal Branding"
+        ],
+        "Strategic Marketing Services": [
+            "Research & Market Intelligence",
+            "Funnel & Growth Strategy",
+            "Campaign & Go-to-Market Strategy",
+            "Channel & Media Strategy",
+            "Content & Experience Strategy",
+            "CRM & Relationship Strategy"
+        ],
+        "Advertising Services": [
+            "Search Advertising",
+            "Display & Programmatic Advertising",
+            "Social Media Advertising",
+            "Video & Rich Media Advertising",
+            "Print Advertising",
+            "Broadcast Advertising",
+            "Outdoor & Transit Advertising",
+            "Experiential & Activation Advertising",
+            "Guerrilla Advertising",
+            "Influencer & Native Advertising",
+            "Aerial Advertising",
+            "Aqua & Marine Advertising"
+        ],
+        "Marketing Collateral Services": [
+            "Website & Conversion Collateral",
+            "Email Marketing Collateral",
+            "Social Media Visual Collateral",
+            "Long-Form Digital Collateral",
+            "Print Marketing Collateral",
+            "Business Identity Collateral",
+            "Catalog & Listing Collateral",
+            "Presentation & Pitch Collateral",
+            "Event & Trade Show Collateral",
+            "Promotional & Merchandise Collateral",
+            "Testimonials & Case Study Collateral",
+            "Signage & Environmental Graphics",
+            "Print Production & Large Format Graphics"
+        ]
+    },
+    "primaryToSubFilters": {
+        "Brand Strategy & Foundations": [
+            "Brand Positioning",
+            "Brand Architecture",
+            "Brand Purpose & Values",
+            "Naming & Tagline Development",
+            "Custom Scope"
+        ],
+        "Brand Audit & Research": [
+            "Competitive Analysis",
+            "Consumer Insights",
+            "Market Research Reports",
+            "Custom Scope"
+        ],
+        "Go-to-Market & Launch Strategy": [
+            "Brand Launch Planning",
+            "Market Entry Positioning",
+            "Rollout Campaign Strategy",
+            "Custom Scope"
+        ],
+        "Visual Identity Design": [
+            "Logo & Icon Design",
+            "Typography & Color Systems",
+            "Brand Style Guides",
+            "Motion Branding (Animated Logos, Brand Motion)",
+            "Custom Scope"
+        ],
+        "Verbal Identity & Messaging": [
+            "Tone of Voice Definition",
+            "Messaging Frameworks",
+            "Brand Storytelling & Narrative",
+            "Custom Scope"
+        ],
+        "Brand Experience & Touchpoints": [
+            "Packaging & Product Presentation",
+            "Digital Brand Assets (UI/UX, App Interfaces)",
+            "Retail & Environmental Branding",
+            "Custom Scope"
+        ],
+        "Employer Branding": [
+            "Employer Value Proposition (EVP)",
+            "Internal Brand Communication",
+            "Employer Branding Campaigns",
+            "Custom Scope"
+        ],
+        "Personal Branding": [
+            "Executive & Founder Branding",
+            "Creator & Influencer Branding",
+            "Personal Brand Collateral (CVs, Pitch Decks, Portfolios)",
+            "Custom Scope"
+        ],
+        "Research & Market Intelligence": [
+            "Consumer & Customer Research",
+            "Competitive & Category Analysis",
+            "Market & Trend Forecasting",
+            "Data & Insight Frameworks",
+            "Custom Scope"
+        ],
+        "Funnel & Growth Strategy": [
+            "Awareness Strategy",
+            "Consideration Strategy",
+            "Conversion Strategy",
+            "Retention & Loyalty Strategy",
+            "Advocacy & Referral Strategy",
+            "Custom Scope"
+        ],
+        "Campaign & Go-to-Market Strategy": [
+            "Product / Brand Launch Strategy",
+            "Seasonal & Promotional Campaigns",
+            "Engagement & Loyalty Campaigns",
+            "Crisis & Reputation Strategy",
+            "Integrated Campaign Planning",
+            "Custom Scope"
+        ],
+        "Channel & Media Strategy": [
+            "Owned Media Strategy",
+            "Paid Media Strategy",
+            "Earned Media Strategy",
+            "Shared / Community Channels",
+            "Cross-Channel Planning",
+            "Custom Scope"
+        ],
+        "Content & Experience Strategy": [
+            "Content Architecture & Editorial Planning",
+            "SEO & Discovery Strategy",
+            "Social Content Mapping",
+            "Influencer & Creator Strategy",
+            "Personalization & Experience Design",
+            "Custom Scope"
+        ],
+        "CRM & Relationship Strategy": [
+            "Customer Segmentation Frameworks",
+            "Lead Nurturing Strategy",
+            "Lifecycle Communication Planning",
+            "Churn Prevention Strategy",
+            "Loyalty & Advocacy Programs",
+            "Custom Scope"
+        ],
+        "Search Advertising": [
+            "Search Engine Marketing (SEM)",
+            "Pay-Per-Click (PPC)",
+            "Branded Search Campaigns",
+            "Non-Branded Search Campaigns",
+            "Custom Scope"
+        ],
+        "Display & Programmatic Advertising": [
+            "Banner Display Ads",
+            "Programmatic Display Networks",
+            "Dynamic Remarketing",
+            "Cross-Channel Remarketing",
+            "Custom Scope"
+        ],
+        "Social Media Advertising": [
+            "Facebook & Instagram Ads",
+            "LinkedIn Ads",
+            "Twitter / X Ads",
+            "TikTok Ads",
+            "Snapchat Ads",
+            "Other Social Platforms",
+            "Custom Scope"
+        ],
+        "Video & Rich Media Advertising": [
+            "YouTube & Video Platforms",
+            "OTT / CTV Advertising",
+            "Pre-Roll / Mid-Roll / Post-Roll Ads",
+            "In-App Video Ads",
+            "Interactive / Rich Media Ads",
+            "Custom Scope"
+        ],
+        "Print Advertising": [
+            "Newspaper Advertising",
+            "Magazine Advertising",
+            "Direct Mail Campaigns",
+            "Custom Scope"
+        ],
+        "Broadcast Advertising": [
+            "Television Advertising",
+            "Radio Advertising",
+            "Custom Scope"
+        ],
+        "Outdoor & Transit Advertising": [
+            "Billboards & Hoardings",
+            "Transit Advertising",
+            "Street Furniture & Outdoor Media",
+            "Custom Scope"
+        ],
+        "Experiential & Activation Advertising": [
+            "Event Activations",
+            "Pop-Ups & Brand Experiences",
+            "AR / VR Experiences",
+            "Virtual & Hybrid Events",
+            "Custom Scope"
+        ],
+        "Guerrilla Advertising": [
+            "Sampling Campaigns",
+            "Flash Mobs & Stunts",
+            "Unconventional Brand Experiences",
+            "Custom Scope"
+        ],
+        "Influencer & Native Advertising": [
+            "Influencer Collaborations",
+            "Micro-Influencer Campaigns",
+            "Sponsored Content",
+            "Affiliate Marketing",
+            "Native Placements",
+            "Custom Scope"
+        ],
+        "Aerial Advertising": [
+            "Drone Shows & Light Displays",
+            "Skywriting & Airborne Banners",
+            "Aerial Brand Stunts",
+            "Custom Scope"
+        ],
+        "Aqua & Marine Advertising": [
+            "Boat Wraps & Marine Branding",
+            "Floating Billboards",
+            "Water-Based Brand Experiences",
+            "Custom Scope"
+        ],
+        "Website & Conversion Collateral": [
+            "Microsites",
+            "Campaign Landing Pages",
+            "Conversion-Optimized Pages",
+            "Custom Scope"
+        ],
+        "Email Marketing Collateral": [
+            "Newsletter Templates",
+            "Drip / Automation Templates",
+            "Branded Email Designs",
+            "Campaign Email Layouts",
+            "Custom Scope"
+        ],
+        "Social Media Visual Collateral": [
+            "Post & Feed Graphics",
+            "Story & Reel Templates",
+            "Banner & Cover Designs",
+            "Profile Visuals",
+            "Custom Scope"
+        ],
+        "Long-Form Digital Collateral": [
+            "E-Books & Guides",
+            "White Papers & Reports",
+            "Research Documents",
+            "Custom Scope"
+        ],
+        "Print Marketing Collateral": [
+            "Flyers & Leaflets",
+            "Product Brochures",
+            "Posters & Print Ads",
+            "Custom Scope"
+        ],
+        "Business Identity Collateral": [
+            "Business Cards",
+            "Letterheads & Stationery",
+            "Corporate Templates",
+            "Custom Scope"
+        ],
+        "Catalog & Listing Collateral": [
+            "Print Catalogs",
+            "Digital Catalogs",
+            "Interactive Catalogs",
+            "Custom Scope"
+        ],
+        "Presentation & Pitch Collateral": [
+            "Pitch Decks",
+            "Sales Presentations",
+            "Investor Presentations",
+            "Product Demo Decks",
+            "Custom Scope"
+        ],
+        "Event & Trade Show Collateral": [
+            "Booth & Stall Designs",
+            "Pop-Up Displays",
+            "Event Branding Materials",
+            "Custom Scope"
+        ],
+        "Promotional & Merchandise Collateral": [
+            "Branded Merchandise",
+            "Corporate Gifting",
+            "Event Giveaways",
+            "Eco-Friendly Merchandise",
+            "Custom Scope"
+        ],
+        "Testimonials & Case Study Collateral": [
+            "Written Case Studies",
+            "Visual Case Studies",
+            "Video Testimonials",
+            "Customer Reviews",
+            "Custom Scope"
+        ],
+        "Signage & Environmental Graphics": [
+            "Store Branding",
+            "Corporate & Office Signage",
+            "Retail Signage",
+            "Wayfinding Systems",
+            "Environmental Branding",
+            "Event & Exhibition Signage",
+            "Outdoor Signage",
+            "Digital Signage",
+            "Vehicle Branding",
+            "Signage Fabrication & Installation",
+            "Custom Signage Solutions",
+            "Custom Scope"
+        ],
+        "Print Production & Large Format Graphics": [
+            "Retail Graphics Printing",
+            "Office & Corporate Graphics Printing",
+            "Large Format Printing",
+            "Fabric & Textile Printing",
+            "Exhibition & Event Graphics Printing",
+            "Wallpaper & Interior Graphics",
+            "Window & Glass Graphics",
+            "Custom Print Production",
+            "Custom Scope"
+        ]
+    },
+    "contextAndIntentRefinement": {
+        "industrySectors": {
+            "Primary": [
+                "Agriculture & Farming",
+                "Fisheries & Aquaculture",
+                "Forestry & Timber",
+                "Mining & Minerals",
+                "Animal Husbandry & Dairy",
+                "Organic & Sustainable Farming",
+                "Other"
+            ],
+            "Secondary": [
+                "Manufacturing (General)",
+                "Construction & Infrastructure",
+                "Energy & Utilities",
+                "Chemicals & Refining",
+                "Textiles & Apparel",
+                "Automotive & Machinery",
+                "Electronics & Hardware",
+                "Packaging & Industrial Design",
+                "Waste & Recycling",
+                "Other"
+            ],
+            "Tertiary": [
+                "Financial Services",
+                "Healthcare & Medical Services",
+                "Education & Training (Non-Technical)",
+                "Tourism & Hospitality",
+                "Transportation & Logistics",
+                "Retail & Trade (Offline / Online)",
+                "Entertainment & Media",
+                "Real Estate & Property Services",
+                "Legal & Compliance",
+                "Food & Beverage Services",
+                "Event & Experience Services",
+                "Wellness & Fitness",
+                "Other"
+            ],
+            "Quaternary": [
+                "IT & Software Services",
+                "Data, Analytics & BI",
+                "Consulting & Advisory",
+                "R&D & Innovation Labs",
+                "Intellectual Property Services",
+                "BPO / KPO",
+                "Cybersecurity & IT Risk",
+                "Cloud & Infrastructure",
+                "AI & Advanced Technologies",
+                "Higher Education & Research",
+                "Other"
+            ]
+        },
+        "businessRelationshipTypes": [
+            "B2B",
+            "B2B2C",
+            "B2C",
+            "B2C2B",
+            "B2G",
+            "C2B",
+            "C2C",
+            "D2C",
+            "G2B",
+            "G2C"
+        ],
+        "businessTypes": [
+            "Distributor",
+            "Factory",
+            "Manufacturer",
+            "Reseller",
+            "Retailer",
+            "Services",
+            "Wholesaler",
+            "Outlet",
+            "Other"
+        ],
+        "businessSizes": [
+            "Startups",
+            "Small & Medium Businesses",
+            "Enterprises",
+            "Global",
+            "Other"
+        ],
+        "engagementModels": [
+            "Retainers",
+            "Project-based",
+            "SLA-driven",
+            "Subscription",
+            "On-demand Tasks",
+            "To Be Discussed"
+        ],
+        "operationalModels": [
+            "Remote",
+            "On-site",
+            "Hybrid",
+            "To be discussed"
+        ],
+        "pricingStyles": [
+            "Fixed",
+            "Hourly",
+            "Subscription",
+            "Tiered",
+            "To Be Discussed"
+        ],
+        "turnaroundTimes": [
+            "Standard (6–10 days)",
+            "Fast-track (3–5 days)",
+            "Urgent (24–48 hours)",
+            "To Be Discussed"
+        ]
+    },
+    "locationsAndDemographics": {
+        "languages": [
+            "Hindi",
+            "English",
+            "Marathi",
+            "Gujarati",
+            "Tamil",
+            "Telugu",
+            "Kannada",
+            "Malayalam",
+            "Bengali",
+            "Punjabi",
+            "Urdu"
+        ],
+        "mumbaiRegions": [
+            "South Mumbai",
+            "Western Suburbs (Bandra–Dahisar)",
+            "Central Suburbs (Kurla–Mulund)",
+            "Thane City & Suburbs",
+            "Navi Mumbai (Vashi–Panvel)",
+            "Kalyan–Dombivli",
+            "Bhiwandi (Industrial Areas)",
+            "Mira–Bhayandar",
+            "Vasai–Virar / Palghar"
+        ]
+    },
+    "expertDetails": {
+        "entityTypes": [
+            "Independent Consultant",
+            "Small Team / Boutique Agency",
+            "Growth Agency / Specialist Firm"
+        ],
+        "experienceRanges": [
+            {
+                "label": "Early-stage professionals (0–3 years)",
+                "min": 0,
+                "max": 3
+            },
+            {
+                "label": "Experienced professionals (3–7 years)",
+                "min": 3,
+                "max": 7
+            },
+            {
+                "label": "Senior professionals (7+ years)",
+                "min": 7,
+                "max": 100
+            }
+        ]
+    }
+}
